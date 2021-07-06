@@ -1,6 +1,7 @@
 ## Hello there :rainbow:
 
 - I'm currently learning web development :computer:
+- Also into video games and cybersecurity :space_invader:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlemonn&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
